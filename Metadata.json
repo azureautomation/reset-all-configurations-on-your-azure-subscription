@@ -1,0 +1,20 @@
+{
+    "Author": "Mai Ali",
+    "ContentSize": 3348,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/reset-all-configurations-on-your-azure-subscription/master/Reset-Azure.ps1",
+    "DownloadCount": 1033,
+    "Id": "Reset-all-configurations-080cfce9",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 77,
+    "RaterCount": 2,
+    "Rating": 5.0,
+    "ReleaseDate": "2018-5-9T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This Script was created to delete all configurations on your Azure Subscribution using Powershell. Simply you will need to login on your azure subscribution then run this script to delete all your configuration on lab.",
+    "Title": "Reset all configurations on your Azure Subscription",
+    "UpdatedDate": "2018-5-16T00:00:00",
+    "Url": "https://github.com/azureautomation/reset-all-configurations-on-your-azure-subscription",
+    "UserTags": "Microsoft Azure, Powershell, Powershell Script"
+}
